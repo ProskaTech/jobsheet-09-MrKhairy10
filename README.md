@@ -1,5 +1,11 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## 21343083_Mubarakh Hayatna Khairy
+
+Pada pertemuan minggu ini kita belajar tentang kelas java (sudah masuk PBO). ada objek seperti mobil, lalu warna, ketik sebagai properti, sedangkan rem, gas sebagai perilaku.
+
+Pada latihan 1 kita belajar tentang nilai pass by, yaitu passing parameter dilakukan dengan menyalin nilai parameter aktual (dari pemanggil/pemanggil) ke parameter formal (fungsi). Perubahan yang dibuat di dalam fungsi tidak akan memengaruhi nilai asli panggilan.
+
+Dalam latihan 2 kita belajar tentang pass by reference. Passing By Reference merupakan kebalikan dari passing by value sebelumnya, data yang dilewatkan dari kode pemanggilan ke dalam metode, yang diambil adalah referensi (alamat) dari variabel tersebut. Jika nilai variabel dalam metode berubah, variabel nilai dalam pemanggil juga berubah.
+
+di latihan 3 kita belajar tentang komparator, untuk membandingkan string harus digunakan sama, jangan gunakan ==. karena jika alamat memori berbeda meskipun perbandingannya sama, hasilnya akan berbeda jika kita menggunakan komparator ==
+
+dalam latihan 4 kita belajar tentang membuat kelas, membuat objek baru dan membuat perilaku, dan memanggil perilaku di kelas yang berbeda
